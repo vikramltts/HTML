@@ -1,4 +1,4 @@
-ipl points table 
- 
- 
-![Alt Text](https://user-images.githubusercontent.com/78849038/108468967-80c16a00-72ad-11eb-9c49-6a6add305bb4.png)
+score calculator
+
+
+![Screenshot (5)](https://user-images.githubusercontent.com/78849038/108480669-4233ab80-72bd-11eb-9a38-afc248c7479f.png)
